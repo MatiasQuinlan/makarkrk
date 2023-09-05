@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-05T10:46:25.369Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" etag="gkZMhZ2WgnbkmWdnQuDQ" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-05T10:54:34.788Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" etag="_0B8iUnHvf0bEj-fjTAB" version="21.7.2" type="github">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
-    <mxGraphModel dx="2554" dy="1650" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="3645" dy="2250" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -464,29 +464,29 @@
         <mxCell id="1mWBqxpM2r-LrcwGqkgM-71" value="FIDELIDAD=0#CONCILIADA=0" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=font-family: &#39;Roboto&#39;, sans-serif;;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfont-family%253A%2B&#39;Roboto&#39;%252C%2Bsans-serif%253B;fontColor=#F7F7F7;rounded=1;" parent="1mWBqxpM2r-LrcwGqkgM-45" vertex="1">
           <mxGeometry y="164" width="338" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="1mWBqxpM2r-LrcwGqkgM-52" value="CONCILIADA=0#TIENDAS=1#MUEVO=1#AUTORIZADOR=1#FIDELIDAD=0.json" style="swimlane;html=1;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#366E79;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#0D5070;fontFamily=font-family: &#39;Roboto&#39;, sans-serif;;fontSize=12;glass=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfont-family%253A%2B&#39;Roboto&#39;%252C%2Bsans-serif%253B;swimlaneLine=1;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="427" y="-440" width="455" height="196" as="geometry" />
+        <mxCell id="1mWBqxpM2r-LrcwGqkgM-52" value="CONCILIADA=0#TIENDAS=1#MUEVO=1#AUTORIZADOR=1#FIDELIDAD=0_new.json" style="swimlane;html=1;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#366E79;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#0D5070;fontFamily=font-family: &#39;Roboto&#39;, sans-serif;;fontSize=12;glass=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfont-family%253A%2B&#39;Roboto&#39;%252C%2Bsans-serif%253B;swimlaneLine=1;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="427" y="-440" width="567" height="196" as="geometry" />
         </mxCell>
         <mxCell id="1mWBqxpM2r-LrcwGqkgM-53" value="&lt;b&gt;2 TXS&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=font-family: &#39;Roboto&#39;, sans-serif;;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfont-family%253A%2B&#39;Roboto&#39;%252C%2Bsans-serif%253B;fontColor=#F7F7F7;rounded=1;" parent="1mWBqxpM2r-LrcwGqkgM-52" vertex="1">
-          <mxGeometry y="26" width="455" height="26" as="geometry" />
+          <mxGeometry y="26" width="567" height="26" as="geometry" />
         </mxCell>
         <mxCell id="1mWBqxpM2r-LrcwGqkgM-54" value="" style="line;html=1;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;rounded=1;" parent="1mWBqxpM2r-LrcwGqkgM-52" vertex="1">
-          <mxGeometry y="52" width="455" height="8" as="geometry" />
+          <mxGeometry y="52" width="567" height="8" as="geometry" />
         </mxCell>
         <mxCell id="1mWBqxpM2r-LrcwGqkgM-55" value="FECHA LARGO 8" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=font-family: &#39;Roboto&#39;, sans-serif;;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfont-family%253A%2B&#39;Roboto&#39;%252C%2Bsans-serif%253B;fontColor=#F7F7F7;rounded=1;" parent="1mWBqxpM2r-LrcwGqkgM-52" vertex="1">
-          <mxGeometry y="60" width="455" height="26" as="geometry" />
+          <mxGeometry y="60" width="567" height="26" as="geometry" />
         </mxCell>
         <mxCell id="1mWBqxpM2r-LrcwGqkgM-56" value="COMERCIO=PRONTO" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=font-family: &#39;Roboto&#39;, sans-serif;;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfont-family%253A%2B&#39;Roboto&#39;%252C%2Bsans-serif%253B;fontColor=#F7F7F7;rounded=1;" parent="1mWBqxpM2r-LrcwGqkgM-52" vertex="1">
-          <mxGeometry y="86" width="455" height="26" as="geometry" />
+          <mxGeometry y="86" width="567" height="26" as="geometry" />
         </mxCell>
         <mxCell id="1mWBqxpM2r-LrcwGqkgM-57" value="SIN LOTE&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=font-family: &#39;Roboto&#39;, sans-serif;;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfont-family%253A%2B&#39;Roboto&#39;%252C%2Bsans-serif%253B;fontColor=#F7F7F7;rounded=1;" parent="1mWBqxpM2r-LrcwGqkgM-52" vertex="1">
-          <mxGeometry y="112" width="455" height="26" as="geometry" />
+          <mxGeometry y="112" width="567" height="26" as="geometry" />
         </mxCell>
         <mxCell id="1mWBqxpM2r-LrcwGqkgM-58" value="MONTO_DESCUENTO &amp;gt; 0" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=font-family: &#39;Roboto&#39;, sans-serif;;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfont-family%253A%2B&#39;Roboto&#39;%252C%2Bsans-serif%253B;fontColor=#F7F7F7;rounded=1;" parent="1mWBqxpM2r-LrcwGqkgM-52" vertex="1">
-          <mxGeometry y="138" width="455" height="26" as="geometry" />
+          <mxGeometry y="138" width="567" height="26" as="geometry" />
         </mxCell>
         <mxCell id="1mWBqxpM2r-LrcwGqkgM-72" value="CONCILIADA=0#TIENDAS=1#MUEVO=1#AUTORIZADOR=1#FIDELIDAD=0" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=font-family: &#39;Roboto&#39;, sans-serif;;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfont-family%253A%2B&#39;Roboto&#39;%252C%2Bsans-serif%253B;fontColor=#F7F7F7;rounded=1;" parent="1mWBqxpM2r-LrcwGqkgM-52" vertex="1">
-          <mxGeometry y="164" width="455" height="26" as="geometry" />
+          <mxGeometry y="164" width="567" height="26" as="geometry" />
         </mxCell>
         <mxCell id="1mWBqxpM2r-LrcwGqkgM-59" value="FIDELIDAD=1#CONCILIADA=1.json" style="swimlane;html=1;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#366E79;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#0D5070;fontFamily=font-family: &#39;Roboto&#39;, sans-serif;;fontSize=12;glass=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfont-family%253A%2B&#39;Roboto&#39;%252C%2Bsans-serif%253B;swimlaneLine=1;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="427" y="-237" width="333" height="195" as="geometry" />
@@ -525,7 +525,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XCZEjChv1KdmmRgAdbkG-1" value="&lt;font color=&quot;#000000&quot;&gt;transaccionesTotaldynamo.csv&lt;/font&gt;" style="swimlane;html=1;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#C3ABD0;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#AF99BA;fontFamily=font-family: &#39;Roboto&#39;, sans-serif;;fontSize=12;glass=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfont-family%253A%2B&#39;Roboto&#39;%252C%2Bsans-serif%253B;swimlaneLine=1;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="998" y="-629" width="229" height="163" as="geometry" />
+          <mxGeometry x="1024" y="-623" width="229" height="163" as="geometry" />
         </mxCell>
         <mxCell id="XCZEjChv1KdmmRgAdbkG-2" value="&lt;b&gt;69.555 TXS&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=font-family: &#39;Roboto&#39;, sans-serif;;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dfont-family%253A%2B&#39;Roboto&#39;%252C%2Bsans-serif%253B;fontColor=#000000;rounded=1;" vertex="1" parent="XCZEjChv1KdmmRgAdbkG-1">
           <mxGeometry y="26" width="229" height="26" as="geometry" />
@@ -543,6 +543,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XCZEjChv1KdmmRgAdbkG-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="7iV-3QqABHb4uCZC2DnF-25" target="1mWBqxpM2r-LrcwGqkgM-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XCZEjChv1KdmmRgAdbkG-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XCZEjChv1KdmmRgAdbkG-5" target="1mWBqxpM2r-LrcwGqkgM-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XCZEjChv1KdmmRgAdbkG-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1mWBqxpM2r-LrcwGqkgM-49" target="XCZEjChv1KdmmRgAdbkG-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
